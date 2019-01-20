@@ -21,4 +21,5 @@ class NetworkModule {
                 .build()
                 .create(GitHubService.class);
     }
+
 }
